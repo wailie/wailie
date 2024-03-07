@@ -6,7 +6,7 @@ I'm a passionate CS student from Myanmar. Welcome to my GitHub profile!
 - [Twitter](https://twitter.com/wai_div)
 
 ## 🌱 I'm Currently Learning
-- Python & Game Development
+- Python
 
 ## 📫 How to Reach Me
 Feel free to reach out! I'm always open to interesting conversations and collaboration.
