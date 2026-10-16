@@ -3,7 +3,6 @@ I'm a passionate engineering student from Myanmar. Welcome to my GitHub profile!
 
 🚀 **Quick Links:**
 - [LinkedIn](https://www.linkedin.com/in/zin-wai-htut-170803275/)
-- [Twitter](https://twitter.com/wai_div)
 
 ## 🌱 I'm Currently Learning
 - Python
